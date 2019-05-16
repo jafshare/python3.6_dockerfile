@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER jianganfu
+MAINTAINER jaf
 # 设置时区变量
 ENV TIME_ZONE Asia/Shanghai
 # 此时alpine的3.8库比较完善
